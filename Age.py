@@ -1,4 +1,4 @@
-def get_age2():
+def get_age3():
 
     name = 'Daniel'
     age = 20
@@ -8,4 +8,4 @@ def get_age2():
     else:
         print('{} is an old guy.'.format(name))
         
- get_age2()
+ get_age3()
